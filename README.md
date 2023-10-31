@@ -1,9 +1,9 @@
 # CitiBike-Analysis
 
-**Project Tableau Link**
+**Project Tableau Link:**
 https://public.tableau.com/app/profile/alexander.lam8596/viz/CitiBikeAnalysis_16981881957500/CitiBikeAnalysis?publish=yes
 
-**Project Summary and Goals**
+**Project Summary and Goals:**
 
 CitiBank has launched a public bicycle sharing system servicing New York city. It has a subscription based service, where users can pay either a monthly or yearly fee. Users can opt out of a subscription and also do a one time payment based on the length of their ride.
 
