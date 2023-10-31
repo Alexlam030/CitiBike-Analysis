@@ -12,4 +12,5 @@ This project's goal is to see what trends the service's riders have in order to 
 **Data Sources:**
 
 CitiBike Data: https://www.kaggle.com/datasets/ryanmcummings/citi-bike-data
+
 New York Geospatial Bourough Data: https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm
