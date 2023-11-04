@@ -1,7 +1,7 @@
 # CitiBike-Analysis
 
 **Project Tableau Link:**
-https://public.tableau.com/app/profile/alexander.lam8596/viz/CitiBikeAnalysis_16981881957500/CitiBikeAnalysis?publish=yes
+[https://public.tableau.com/app/profile/alexander.lam8596/viz/CitiBikeAnalysis_16981881957500/CitiBikeAnalysis?publish=yes](https://public.tableau.com/views/CitiBikeAnalysisV2/CitiBikeAnalysis2?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 **Project Summary and Goals:**
 
